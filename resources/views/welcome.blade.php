@@ -50,15 +50,12 @@
                 #Dari Inisiatif Menjadi Dampak
             </p>
         </section>
-
         <section id="tentang">
             <h2 style="margin: 0;">Tentang Kami</h2>
             <div class="cards">
                 <div class="card"><strong>Visi</strong><p>Mewujudkan Himpunan Mahasiswa Informatika Yang Progresif, Kolaboratif, dan Berdampak Melalui Inisiatif-inisiatif Inovatif Yang Relevan Dengan Perkembangan Teknologi dan Kebutuhan Mahasiswa</p></div>
                 <div class="card"><strong>Misi</strong><p>1.Mendorong budaya inisiatif mahasiswa dalam pengembangan akademik, minat bakat, dan karya teknologi. <br>2.Menghadirkan program kerja yang inovatif dan relevan guna meningkatkan kolaborasi antar anggota himpunan.</p></div>
-            
         </section>
-
         <section id="proker">
             <h2 style="margin: 2px 0;">Program Kerja Unggulan</h2>
             <div class="cards">
@@ -67,7 +64,6 @@
                 <div class="card"><strong>Desa Digital</strong><p>Kegiatan Sosial Berbasis Teknologi Ke Desa.</p></div>
             </div>
         </section>
-
         <section id="kontak">
             <p style="margin: 4;">Contact: Email: hmit@uts.ac.id | Instagram: @hmit.uts</p>
         </section>

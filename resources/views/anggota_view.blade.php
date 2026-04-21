@@ -5,7 +5,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Anggota Himpunan</title>
 <style>
-/* GLOBAL */
 body{
     margin:0; font-family:Arial,sans-serif; background:#f4f7ff; color:#1f2a44
 }
